@@ -1,0 +1,6 @@
+{
+  "name": "BilimLand — Bolalar uchun ta'lim platformasi",
+  "description": "1-11 sinf o'quvchilari uchun har kungi darslar, qiziqarli testlar, o'yinlar, tangalar va sovg'alar do'koni bilan interaktiv ta'lim portali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
